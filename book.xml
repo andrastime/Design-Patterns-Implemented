@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Book>
+    <Title>My Book</Title>
+    <Author>Mustafa Bozkurt</Author>
+    <Year>1990</Year>
+    <ISBN>123445667</ISBN>
+    <Publisher>WILEY</Publisher>
+    <Cost Cur="GBP">11.2</Cost>
+</Book>

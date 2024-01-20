@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Magazine>
+    <Title>Software Engineering Magazine</Title>
+    <Issue>1</Issue>
+    <Year>1990</Year>
+    <ISSN>Z23442345</ISSN>
+    <Publisher>WILEY</Publisher>
+    <Cost Cur="GBP">3.5</Cost>
+</Magazine>
